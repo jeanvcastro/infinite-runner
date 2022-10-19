@@ -1,0 +1,1 @@
+body{display:flex;justify-content:center;align-items:center;height:100vh;margin:0;overflow:hidden}#game{position:relative;display:flex;width:177vh;height:100%;background-color:#fff}.player{position:absolute;width:20px;height:20px;background-color:red}
